@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is xFeelTure</h1>
 <h3 align="center">- Nothing -</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1018176928655618058/1048481648330674236/b0cde658985bd1a87b525592bf71da18.jpg">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WANZE0&label=Profile%20views&color=0e75b6&style=flat" alt="WANZE0" /> </p>
