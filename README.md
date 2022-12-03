@@ -1,8 +1,7 @@
-[![MasterHead](https://images-ext-1.discordapp.net/external/iGwWFLY1EBI7NVRobloLN8qdtAtLjnUv6Mou6-MbXd8/https/i.pinimg.com/originals/fa/0c/0c/fa0c0c80a3c6fc2b9507397dd4725293.gif)]
 <h1 align="center">Hi 👋, This is xFeelTure</h1>
 <h3 align="center">- Nothing -</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1018176928655618058/1048481648330674236/b0cde658985bd1a87b525592bf71da18.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WANZE0&label=Profile%20views&color=0e75b6&style=flat" alt="WANZE0" /> </p>
