@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.discordapp.net/attachments/1018176928655618058/1048481180271509544/FeelTure_3.png?width=870&height=489)]
 <h1 align="center">Hi 👋, This is xFeelTure</h1>
 <h3 align="center">- Nothing -</h3>
 
