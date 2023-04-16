@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think I am funny !?**
 
-- 📫 How to reach me **Wanzeone2005@gmail.com**
+- 📫 How to reach me **xQuartz0@proton.me**
 
 
 
