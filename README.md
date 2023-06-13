@@ -1,29 +1,38 @@
-<h1 align="center">Hi 👋, This is xFeelTure</h1>
-<h3 align="center">- Nothing -</h3>
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=WANZE0&label=Profile%20views&color=0e75b6&style=flat" alt="WANZE0" /> </p>
-
-
-- 🔭 I’m currently working on [GAMESENSE & DEVELOP MY DISCORD](https://yol4nd3dxz.web.app/)
-
-- 🌱 I’m currently Develop **Lua Program**
-
-- ⚡ Fun fact **I think I am funny !?**
-
-- 📫 How to reach me **xQuartz0@proton.me**
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xFeelTure&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="WANZE0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xFeelTure&show_icons=true&locale=en&theme=tokyonight" alt="WANZE0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xFeelTure&&theme=tokyonight" alt="WANZE0" /></p>
+<table>
+  <td rowspan="5" align="center"><a href="https://discord.com/users/740505540517691421" target="blank"><img src="https://lanyard.cnrad.dev/api/855133265681449010" /></a></td>
+  <tr>
+    <td>Name</td>
+    <td>Raphael</td>
+  </tr>
+  <tr>
+    <td>Age</td>
+    <td>17</td>
+  </tr>
+  <tr>
+    <td>Pronouns</td>
+    <td>He / Not Him <code>Cause I'll never be him!</code></td>
+  </tr>
+  <tr>
+    <td>Birthday</td>
+    <td>May, 29th</td>
+  </tr>
+</table>
+<table>
+  <td rowspan="5"><img src="[https://25.media.tumblr.com/72d5855e55a1971645b927c14debc7ce/tumblr_mtjget4P4m1ru39xmo1_500.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FLf7V&psig=AOvVaw33NdJuRFnVChX-E3y_ecpD&ust=1686736216748000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIi_jq78v_8CFQAAAAAdAAAAABA6)" width="250" /></td>
+   <tr>
+    <td>Title</td>
+    <td>Student</td>
+  </tr>
+  <tr>
+    <td>Interests</td>
+    <td><code>Web Development</code> <code>Software Development</code> <code>Ethical Hacking</code></td>
+  </tr>
+  <tr>
+    <td>Technologies</td>
+    <td><code>C#</code> <code>Node JS</code> <code>HTML, CSS, JS</code> <code>Batch, Bash</code> <code>Lua</code></td>
+  </tr>
+  <tr>
+    <td>Frameworks</td>
+    <td><code>React JS</code> <code>Tailwind CSS</code></td>
+  </tr>
+</table>
